@@ -1,1 +1,1 @@
-# Liisa's Project Euler Answers
+# Liisa's Cool Project Euler Answers
